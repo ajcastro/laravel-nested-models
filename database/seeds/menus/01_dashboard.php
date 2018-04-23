@@ -14,7 +14,7 @@ return [
         'name' => 'dashboard.users',
         'text' => 'USERS',
     ], [
-        'name' => 'dashboard.transactions',
-        'text' => 'TRANSACTIONS',
+        'name' => 'dashboard.daily_transactions',
+        'text' => 'DAILY TRANSACTIONS',
     ],
 ];
